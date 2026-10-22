@@ -1,5 +1,6 @@
 Pour ce projet j'ai décidé de me concentrer sur les ventes de jeu vidéo en 2024, c'est global mais plutôt intéressant.
 J'ai trouvé le jeu de données via kaggle : https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024
+
 Et j'ai décidé d'utiliser comme application PowerBI.
 
 Dans ce dashboard on peux y retrouver l'analyse du marché mondial du jeu vidéo en 2024, avec donc 3 cartes qui donnent des informations rapide à comprendre (Nombre de vente totale / Nombre de jeux total / Nombre d'éditeurs en 2024)
