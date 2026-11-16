@@ -1,6 +1,7 @@
 Pour ce TP j'ai utilisé le dataset "Caract_2024.CSV"  via le lien vers data.gouv que vous avez envoyé par mail.
 
 Après avoir lus les differentes regles de lisibilite j'ai décide de les mettre en application sur ces deux visualisations.
+J'ai décidé de travailler sur Rstudio car c'est un logiciel que je maîtrise et que je trouve est très bien pour faire des visualisations rapide et claires.
 
 #Dataviz1.png
 La premiere visualisation est donc une carte de France qui montre le nombre d'accidents par département. J'ai essayé d'appliqué un code couleur marquant et qui est visible pour tout le monde. Cette visualisation est parlante visuellement car on voit bien a quelle tranche elle correspond dans la legende.
