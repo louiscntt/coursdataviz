@@ -1,11 +1,14 @@
 Pour ce TP j'ai utilisé le dataset "Caract_2024.CSV"  via le lien vers data.gouv que vous avez envoyé par mail.
 
 Après avoir lus les differentes regles de lisibilite j'ai décide de les mettre en application sur ces deux visualisations.
+
+#Dataviz1.png
 La premiere visualisation est donc une carte de France qui montre le nombre d'accidents par département. J'ai essayé d'appliqué un code couleur marquant et qui est visible pour tout le monde. Cette visualisation est parlante visuellement car on voit bien a quelle tranche elle correspond dans la legende.
 Cependant je n'ai pas mis de chiffres excats pour chaque département pour eviter les étiquettes illisibles.
 Grace a ce graphique on peux voir que dans les grandes villes il y a beaucoup plus d'accidents que dans les départements où il y a de plus petite ville. Par exemple dans la "diagonale du vide" on voit qu'il y a très très peu d'accident.
 
 
+#Dataviz2.png
 Pour la seconde visualisation, j'ai fais un graphique qui permets d'identifier les heures dans une journée où il y a le plus de d'accidents enregistrés. Donc comme regles j'ai utilisé la lisibilité en faisant des graduations de 3H par 3H, ensuite j'ai éviter le chartjunk en mettant que des lignes fines et utile a la compréhension du graphique. Mais aussi l'accessibilité des couleurs donc Jaune pour la journée et Bleu pour la nuit qui sont très distinctes.
 Avec ce graphique on peux voir que les pics d'accidents sont souvent aux horaires où les francais vont ou rentrent du travail donc vers les 8h et 9h du matin ou encore de 17h à 20h. Surement parce qu'il y a beaucoup de monde sur les routes.
 
