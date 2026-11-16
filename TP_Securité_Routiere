@@ -1,0 +1,6 @@
+Pour ce TP j'ai utilise le dataset "Caract_2024.CSV" -> https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2025?resource_id=83f0fb0e-e0ef-47fe-93dd-9aaee851674a
+
+Après avoir lus les differentes regles de lisibilite j'ai décide de les mettre en application sur ces deux visualisations.
+La premiere visualisation est donc une carte de France qui montre le nombre d'accidents corporels par département. J'ai essayé d'appliqué un code couleur marquant et qui est visible pour tout le monde. Cette visualisation est parlante visuellement car on voit bien a quelle tranche elle correspond dans la legende.
+Cependant je n'ai pas mis de chiffres excats pour chaque département pour eviter les étiquettes illisibles.
+
